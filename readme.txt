@@ -29,3 +29,8 @@ git 사용법 3단계(원격저장소 내려받기)
    $ git commit -m "추가된 내용 설명"
 7. 원격저장소에 푸시
    $ git push origin main
+
+git 사용법 4단계(새로운 커밋 갱신하기)
+1. 다른 사용자가 수정한 버전을 가져와서 버전을 갱신
+   $ git pull origin main
+
